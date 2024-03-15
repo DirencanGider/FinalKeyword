@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Password : " + Database.passWord);  //  37
 
         /*  Database.userName = "root2";  //  Direkt hata verdi. Çünkü userName alanı/özelliği final ile yazıldı.
-                                              Tekrar değiştirilemez.*/  //  38
+                                              Tekrar değiştirilemez.*/  //   38
 
 
 
